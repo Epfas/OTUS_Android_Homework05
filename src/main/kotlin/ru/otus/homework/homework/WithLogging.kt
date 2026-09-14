@@ -9,3 +9,4 @@ interface WithLogging {
      */
     fun getLog(): List<String>
 }
+
